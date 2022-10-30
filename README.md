@@ -1,15 +1,16 @@
 - 👋 你好我是LiteQwQ
 - 👀 一名广东深圳的初中生！
 
-**Projects:**
+**项目Projects:**
 ---
   - Hypixel.cc (LiteBoost)
   - Rapid (Go)
-  - Swift (NodeJS)
+  - Swift-Web (NodeJS)
 
-**Contact Me:**
+**联系我Contact Me:**
 ---
-  - BiliBili: LiteQwQ
-  - Twitter: nb_lite
-  - Discord: LiteQwQ#0001
-  - QQ: 2324137731
+  - My BiliBili: LiteQwQ
+  - My Twitter: nb_lite
+  - My Discord: LiteQwQ#0001
+  - Discord Server: https://discord.gg/bpX777dxra
+  - My QQ: 2324137731
