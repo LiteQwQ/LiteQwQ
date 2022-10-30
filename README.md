@@ -1,6 +1,15 @@
-- 👋 你好我是LiteQwQ
-- 👀 一名广东深圳的初中生！
-- 🌱 当前正在学习 Golang & PHP
+**- 👋 你好我是LiteQwQ
+- 👀 一名广东深圳的初中生！**
 
-- 📫 Email: liteqwq@163.com
--           liteqwq@gmail.com
+**Projects:**
+---
+  - Hypixel.cc (LiteBoost)
+  - Rapid (Go)
+  - Swift (NodeJS)
+
+**Contact Me:**
+---
+  - BiliBili: LiteQwQ
+  - Twitter: nb_lite
+  - Discord: LiteQwQ#0001
+  - QQ: 2324137731
