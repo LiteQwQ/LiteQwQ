@@ -14,4 +14,3 @@
   - My email: admin@liteboost.cn
   - My Discord: liteqwq
   - Discord Server: https://discord.gg/bpX777dxra
-  - My QQ: 2324137731
